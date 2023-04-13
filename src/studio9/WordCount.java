@@ -28,8 +28,8 @@ public class WordCount {
 	 *         associated with the number of occurrences of the word
 	 */
 	public static Map<String, Integer> countWords(List<String> words) {
+		
 
-		// FIXME
 		throw new NotYetImplementedException();
 
 	}
